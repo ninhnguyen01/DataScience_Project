@@ -1,2 +1,2 @@
-# CodeAcademy
-This repository contains projects completed on CodeCademy.
+# CodeCademy
+This repository contains projects completed on codecademy.
