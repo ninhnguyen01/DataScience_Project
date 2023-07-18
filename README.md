@@ -1,2 +1,1 @@
-# CodeCademy
-This repository contains projects completed on codecademy.
+This repository contains completed DS and ML projects.
