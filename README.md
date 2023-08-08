@@ -1,1 +1,1 @@
-This repository contains completed DS and ML projects.
+This repository contains Data Science and Machine Learning projects.
